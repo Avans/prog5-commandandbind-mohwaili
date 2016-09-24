@@ -13,3 +13,6 @@ C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindin
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.uitwerking.csproj.GenerateResource.Cache
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.exe
 C:\Users\Linksonder\Documents\1. GitHub\Prog5.CommandAndBind\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.pdb
+Y:\Documents\School\Blok5\Programmeren\Opdrachten\WPF\prog5-commandandbind-mohwaili\CommandingAndBindingDemo.uitwerking\bin\Debug\CommandingAndBindingDemo.exe.config
+Y:\Documents\School\Blok5\Programmeren\Opdrachten\WPF\prog5-commandandbind-mohwaili\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.exe
+Y:\Documents\School\Blok5\Programmeren\Opdrachten\WPF\prog5-commandandbind-mohwaili\CommandingAndBindingDemo.uitwerking\obj\Debug\CommandingAndBindingDemo.pdb

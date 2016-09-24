@@ -20,7 +20,7 @@
         <Slider Value="{Binding Temperature, UpdateSourceTrigger=PropertyChanged}" Maximum="300" Minimum="0"></Slider>
         <Canvas Height="249">
 
-            <Rectangle Panel.ZIndex="1" Height="34" Canvas.Top="17" Width="200" Canvas.Left="194" VerticalAlignment="Bottom" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+            <Rectangle Panel.ZIndex="1" Height="34" Canvas.Top="17" Width="{Binding Path=Temperature}" Canvas.Left="194" VerticalAlignment="Bottom" HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5">
                 <Rectangle.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>

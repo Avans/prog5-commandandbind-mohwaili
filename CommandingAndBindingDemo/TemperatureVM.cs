@@ -35,9 +35,7 @@ namespace CommandingAndBindingDemo
             SetLowCommand = new SetLowCommand(this);
         }
 
-
         #region INotifyPropertyChanged Members
-
 
             void RaisePropertyChanged(string prop)
             {
